@@ -1,7 +1,2 @@
 # Global owners
 * @OXFIVE-Pro
-
-# Specific folders
-src/* @OXFIVE-Pro
-docs/* @OXFIVE-Pro
-.github/* @OXFIVE-Pro
