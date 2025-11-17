@@ -1,3 +1,0 @@
-# Backlog
-
-See SPECIFICATION.md
